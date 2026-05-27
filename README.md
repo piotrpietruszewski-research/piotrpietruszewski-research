@@ -132,3 +132,30 @@ All public PoC results are local synthetic research results.
 They are not production guarantees.
 
 A real deployment would require ingestion design, buffering, source tagging, monitoring, retention rules, access control, failover, integration work, and production validation.
+
+---
+
+## Contact / PoC Discussion
+
+I am open to discussing small, bounded, offline PoC cases where IDDA-style deterministic decision reporting may be useful.
+
+A suitable first PoC does not require production integration.
+
+Typical starting point:
+
+- sanitized log export,
+- telemetry sample,
+- CSV / JSON operational data,
+- bounded offline dataset,
+- clear PoC scope,
+- HTML decision-quality report as the output.
+
+The goal of a first PoC is not to promise production outcomes.
+
+The goal is to check whether noisy operational data can be reduced into compact, auditable, decision-ready signals while preserving a clear explanation trail.
+
+For research, PoC discussion, or collaboration:
+
+**Piotr Pietruszewski**  
+GitHub: https://github.com/piotrpietruszewski-research  
+LinkedIn: https://www.linkedin.com/in/piotr-pietruszewski/
