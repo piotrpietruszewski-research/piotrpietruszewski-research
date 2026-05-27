@@ -158,4 +158,4 @@ For research, PoC discussion, or collaboration:
 
 **Piotr Pietruszewski**  
 GitHub: https://github.com/piotrpietruszewski-research  
-Email: [piotr@pietruszewski.com](mailto:piotr@pietruszewski.com)
+Email: [piotr@piotrpietruszewski.com](mailto:piotr@piotrpietruszewski.com)
