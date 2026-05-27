@@ -158,4 +158,4 @@ For research, PoC discussion, or collaboration:
 
 **Piotr Pietruszewski**  
 GitHub: https://github.com/piotrpietruszewski-research  
-LinkedIn: https://www.linkedin.com/in/piotr-pietruszewski/
+LinkedIn: https://www.linkedin.com/in/piotr-pietruszewski-813726384/
